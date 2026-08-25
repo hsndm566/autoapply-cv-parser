@@ -1,0 +1,7 @@
+# Install the Docling fork from the repository root first:
+#   pip install -e .
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30,<1
+python-multipart>=0.0.9,<1
+pytest>=8,<10
+httpx>=0.28,<1
